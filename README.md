@@ -54,7 +54,7 @@ MIT License - feel free to use this code for your own projects
 
 ## Link to play ONLINE
 
-https://monazmi23.github.io/connect-four
+https://dydxdydx.github.io/connect-four
 
 ## Author
 
